@@ -17,7 +17,7 @@ oscrypto==1.2.0
 pandas==1.0.3
 pycparser==2.20
 pycryptodomex==3.9.7
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyodbc==4.0.30
 pyOpenSSL==19.1.0
 python-dateutil==2.8.1
