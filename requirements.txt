@@ -12,7 +12,7 @@ docutils==0.15.2
 idna==2.9
 ijson==2.6.1
 jmespath==0.10.0
-numpy==1.18.4
+numpy==1.22.0
 oscrypto==1.2.0
 pandas==1.0.3
 pycparser==2.20
